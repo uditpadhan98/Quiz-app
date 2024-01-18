@@ -38,7 +38,7 @@ Welcome to the Quiz App repository! This simple quiz game is built using HTML, C
 
 ## Customization
 
-### Adding New Questions
+## Adding New Questions
 
 1. Open the `questions.js` file.
 
@@ -53,14 +53,10 @@ Welcome to the Quiz App repository! This simple quiz game is built using HTML, C
       { text: '5', correct: false },
       { text: '27', correct: false }
     ]
-  },
+  
    ```
 
 3. Save the file, and the new question will be included in the quiz.
-
-### Styling
-
-- Customize the styles by modifying the `styles.css` file.
 
 ## Contributing
 
